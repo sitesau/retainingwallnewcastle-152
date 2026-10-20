@@ -1,0 +1,22 @@
+{
+  "wheel_id": 489,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-152",
+  "project": "retaining-wall-repairs-newcastle-7f6805f9b0f39f43b1d99ebab0bfb4",
+  "parent_t1_ref": "retainingwallnewcastle-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall repairs newcastle",
+  "intended_url": "https://sitesau.github.io/retainingwallnewcastle-152/",
+  "tier": "T2",
+  "writeback_nonce": "c1a258f171a2afe8",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-repairs-newcastle-retainingwallnewcastle--d74fb1.gitlab.io/",
+      "anchor": "Retaining Wall Repairs Newcastle: A Practical Repair Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
